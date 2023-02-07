@@ -1,15 +1,13 @@
-# Learn Python for Data Analysis for Beginners to Advanced.
-
-## Motivation
+# Learn Python for Data Analysis
 
 I am building this repository for study purposes. I am on the journey to become a Data Analyst, and I want to share what I have learned along the way.
 
 ## Prerequisites
-1. Python 3.x 
+1. Python 3.x version
 2. Git is installed and you know basics of [git commands.](git/git-basic-commands.md)
-3. Have access to terminal/command line.
+3. Have access and know [how to use terminal/command line.](cms/cms-basic-commands.md)
 
-## List of Content
+## About the Content
 
 The content of this repository is organized by levels. First, we start with basic programming concepts using Python. Next, we delve into the world of data analysis and its theories. Finally, we bring everything together and start exploring Python for data analysis. For each section, we will complete at least one project.
 
@@ -28,20 +26,12 @@ Note 2: At the time of viewing this, I may still be in the process of developing
 7. Loops, Condititionals, Methods and Functions.
 8. Modules, Packages, Built-in Functions and File handling. 
 
-### Intro Project
-
-1. 
-
 ### Python Basic Level
 
 1. Oriented Object Programming.
 2. Math and Numpy.
 3. Data handling with Pandas.
 4. Data Visualization with Matplotlib and Seaborn.
-
-### Basic Project
-
-1.
 
 ### Python Intermediary Level
 
@@ -50,10 +40,6 @@ Note 2: At the time of viewing this, I may still be in the process of developing
 3. Machine Learning with Scikit-Learn.
 4. Deep Learning with TensorFlow.
 5. Reinforcement Learning.
-
-### Intermediary Project
-
-1. 
 
 ### Data Analysis
 
@@ -127,9 +113,7 @@ An open source machine learning framework that accelerates the path from researc
 Keras is an API designed for human beings, not machines. Keras follows best practices for reducing cognitive load: it offers consistent & simple APIs, it minimizes the number of user actions required for common use cases, and it provides clear & actionable error messages. It also has extensive documentation and developer guides.
 
 
-## Follow and Contact me 🔗 👇 
-
-### [Eric Soares]
+## Contact me 🔗 👇 
 
 <a href="https://github.com/soareseric/" target="blank"><img align="center" src="https://img.shields.io/github/followers/soareseric?label=Follow&style=social&link=https://github.com/soareseric/" alt="EricSoares" height="20" width="90" /></a>
 <a href="https://www.linkedin.com/in/eric-soares-maciel" target="blank"><img align="center" src="https://img.shields.io/badge/-EricSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-soares-maciel/" alt="EricSoares" height="20" width="100" /></a>
